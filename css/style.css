@@ -1,0 +1,222 @@
+body{
+  padding-left: 45px;
+  padding-right: 45px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.page{
+  width: 100%;
+  height: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu{
+  padding-left: 45px;
+  padding-right: 45px;
+}
+
+.icon-2{
+  width: 52px;
+  height:52px;
+  display: flex;
+  margin-top: -20px;
+  margin-right: -20px;
+  border: solid 3px;
+  border-color: rgb(250, 190, 141);
+  border-radius: 20px;
+  float: right;
+  background-color: rgb(95, 125, 206) 
+}
+
+.close{
+padding-left: 45px;
+padding-right: 45px;
+}
+
+.title-1{
+  display: flex;
+  font-size: 45px;
+  padding-left: 45px;
+  margin-top: 200px;
+  padding-bottom: 60px;
+}
+.content {
+  padding-left: 45px;
+  padding-right: 45px;
+  margin-bottom: 60px;
+}
+
+
+.content-button{
+  display: flex;
+  padding-top: 45px;
+  padding-right:20px;
+  padding-left: 20px;
+  padding-bottom: -40px;
+  margin-bottom: 30px;
+  border-radius: 40px;
+  border: solid 1.5px;
+  border-color: lightgrey;
+  width: 400px;
+  height:130px;;
+}
+
+h4{
+  font-size:30px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-top: -10px;
+}
+.icon-button-1{
+  background-color: rgb(232, 147, 253);
+  display: flex;
+  width:70px;
+  height:70px;
+  border-radius: 30px;
+}
+.icon-button-2{
+  background-color: rgb(95, 125, 206);
+  display: flex;
+  width:70px;
+  height:70px;
+  border-radius: 30px;
+}
+.icon-button-3{
+  background-color: rgb(250, 190, 141);
+  display: flex;
+  width:70px;
+  height:70px;
+  border-radius: 30px;
+}
+
+.preference{
+  display: flex;
+  padding-left: 45px;
+  padding-right: 45px; 
+  padding-bottom: 30px;
+}
+
+.categorie{
+  font-size: 25px;
+  padding-top: 8px;
+   }
+
+.text{
+  font-size: 20px;
+  color:rgb(206, 205, 205);
+  margin-top: 20px;
+  margin:0 0 0 20px;
+
+}
+
+.text-button-1,.text-button-2 {
+ font-size:18px;
+ padding-top: 15px;
+ padding-bottom: 15px;
+ margin-right: 45px;
+ margin-left: 45px;
+ border-radius: 100px;
+}
+
+.text-button-1{
+  color:white;
+  background-color :rgb(95, 125, 206) ;
+  margin: 0 0 0 25px;
+}
+
+.text-button-2{
+  color:rgb(206, 205, 205);
+  background-color: rgb(243, 245, 247);
+  border: solid 1.5px;
+  line-height: 10px;
+  margin: 0 0 0 20px;
+}
+
+.type-maladie{
+  display: flex;
+  flex-direction: row;
+  padding-left: 45px;
+  padding-right: 45px;
+}
+
+h3{
+  display: flex;
+  font-size: 25px;
+  color:white;
+}
+.card{
+  display: flex;
+  margin-bottom: 60px;
+  margin-right: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 45px;
+  padding-bottom: 45px;
+  width: 170px;
+  height: 290px;
+  border-radius: 20px;
+  border-color: lightgrey;
+}
+
+.card-1{
+  background-color: rgb(232, 147, 253);
+}
+.card-2{
+  background-color: rgb(95, 125, 206)
+}
+.card-3{
+  background-color: rgb(250, 190, 141);
+}
+
+.categorie-special{
+  padding-bottom: 30px;
+  font-size: 25px;
+  padding-left: 45px;
+  padding-right: 45px;
+}
+
+.special{
+  margin-top: 30px;
+  padding-top: 20px;
+}
+
+.specialites{
+  display: flex;
+  width: 300px;
+  height: 100px;
+  padding-left: 45px;
+  padding-right: 45px;
+}
+
+.content-button-2{
+  margin-right: 20px;
+  border-radius: 20px;
+  border: solid 1.5px;
+  border-color: lightgrey;
+  display: flex;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.special-text{
+  font-size:20px;
+  padding-left: 20px;
+  margin: -17px;
+  padding-right: 20px;
+  margin-left: -8px;
+}
+.icon {
+  width:54px;
+  height:54px;
+  border-radius:20px;
+}
+
+.icon-button-4{
+  background-color: rgb(95, 125, 206); 
+}
+.icon-button-5{
+  background-color:rgb(232, 147, 253);
+}
+
